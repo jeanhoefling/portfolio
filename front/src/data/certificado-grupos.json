@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cs50",
+    "nome": "CS50",
+    "descricao": "Cursos da série CS50, de Harvard, feitos via edX."
+  },
+  {
+    "id": "faculdade",
+    "nome": "Cursos da Faculdade",
+    "descricao": "Certificados obtidos durante a graduação em Ciência da Computação na UFSM."
+  },
+  {
+    "id": "bradesco",
+    "nome": "Fundação Bradesco",
+    "descricao": "Cursos online da Fundação Bradesco."
+  },
+  {
+    "id": "obmep",
+    "nome": "Olímpiada Brasileira de Matemática",
+    "descricao": "Certificados de conquistas na OBMEP."
+  },
+  {
+    "id": "onc",
+    "nome": "Olímpiada Nacional de Ciências",
+    "descricao": "Certificados de conquistas na ONC."
+  },
+  {
+    "id": "kumon",
+    "nome": "Kumon",
+    "descricao": "Certificados obtidos durante o curso de inglês do Kumon."
+  },
+  {
+    "id": "quartel",
+    "nome": "Alistamento Obrigatório",
+    "descricao": "Certificados de recomendação obtidos ao concluir o serviço obrigatório."
+  },
+  {
+    "id": "tecnico",
+    "nome": "Curso Técnico em Mecânica",
+    "descricao": "Certificado de conclusão de curso técnico."
+  }
+]

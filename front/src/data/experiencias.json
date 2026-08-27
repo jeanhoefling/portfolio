@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "cargo": "Membro da Equipe de Projetos",
+    "empresa": "Compact Jr",
+    "periodo": "04/2026 - Atual",
+    "descricao": "Descrição de exemplo da experiência profissional. Substitua pelos dados reais.",
+    "tecnologias": ["Python", "Django", "PostgreSQL"]
+  },
+  {
+    "id": 2,
+    "cargo": "Serviço Militar Obrigatório",
+    "empresa": "Exército Brasileiro",
+    "periodo": "03/2025 - 02/2026",
+    "descricao": "Segunda experiência de exemplo, para demonstrar a renderização dinâmica a partir do JSON.",
+    "tecnologias": ["React", "JavaScript"]
+  },
+  {
+    "id": 3,
+    "cargo": "Estagiário",
+    "empresa": "Don Jorge",
+    "periodo": "2024",
+    "descricao": "Segunda experiência de exemplo, para demonstrar a renderização dinâmica a partir do JSON.",
+    "tecnologias": ["React", "JavaScript"]
+  }
+]

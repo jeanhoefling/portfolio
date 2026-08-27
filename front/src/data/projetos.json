@@ -1,0 +1,32 @@
+[
+  {
+    "id": "projeto-01",
+    "nome": "Nome do projeto",
+    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
+    "tecnologias": ["Python", "Django", "PostgreSQL"],
+    "imagem": "",
+    "link": "",
+    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
+    "status": "Concluído"
+  },
+  {
+    "id": "projeto-02",
+    "nome": "Nome do projeto",
+    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
+    "tecnologias": ["React", "Node.js", "MongoDB"],
+    "imagem": "",
+    "link": "",
+    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
+    "status": "Em desenvolvimento"
+  },
+  {
+    "id": "projeto-03",
+    "nome": "Nome do projeto",
+    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
+    "tecnologias": ["Flask", "Tailwind", "SQLite"],
+    "imagem": "",
+    "link": "",
+    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
+    "status": "Concluído"
+  }
+]

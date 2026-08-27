@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "grupoId": "cs50",
+    "nome": "CS50x: Introduction to Computer Science",
+    "instituicao": "Harvard University (via edX)",
+    "data": "2026",
+    "descricao": "Curso introdutório de Ciência da Computação da Harvard, abordando programação, algoritmos, estruturas de dados e desenvolvimento de software.",
+    "pdf": "/certificados/cs50x.pdf",
+    "url": "https://certificates.cs50.io/exemplo"
+  },
+  {
+    "id": 2,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Linux",
+    "instituicao": "PET-CC UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste curso.",
+    "pdf": "/certificados/cs50p.pdf",
+    "url": "https://certificates.cs50.io/exemplo"
+  },
+  {
+    "id": 3,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Backend",
+    "instituicao": "PET-SI UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/certificados/exemplo.pdf",
+    "url": ""
+  },
+  {
+    "id": 4,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Frontend",
+    "instituicao": "PET-SI UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/certificados/exemplo.pdf",
+    "url": ""
+  },
+  {
+    "id": 5,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Banco de Dados",
+    "instituicao": "PET-SI UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/certificados/exemplo.pdf",
+    "url": ""
+  },
+  {
+    "id": 6,
+    "grupoId": "faculdade",
+    "nome": "Oficina de Projetos",
+    "instituicao": "PET-SI UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/certificados/exemplo.pdf",
+    "url": ""
+  },
+  {
+    "id": 7,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Python",
+    "instituicao": "PET-CC UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/certificados/exemplo.pdf",
+    "url": ""
+  }
+]
