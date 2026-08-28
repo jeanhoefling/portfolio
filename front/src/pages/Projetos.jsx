@@ -18,11 +18,20 @@ export default function Projetos() {
         <p className="text-text-muted">Nenhum projeto cadastrado ainda.</p>
       ) : (
         <div className="grid gap-6 sm:grid-cols-2">
-          {projetos.map((projeto, i) => (
-            <Reveal key={projeto.id} delay={i * 60}>
-              <ProjetoCard projeto={projeto} />
-            </Reveal>
-          ))}
+          {[...projetos]
+            .sort((a, b) => {
+              const ordem = {
+                "Em desenvolvimento": 0,
+                "Concluído": 1
+              }
+
+              return ordem[a.status] - ordem[b.status]
+            })
+            .map((projeto, i) => (
+              <Reveal key={projeto.id} delay={i * 60}>
+                <ProjetoCard projeto={projeto} />
+              </Reveal>
+            ))}
         </div>
       )}
     </div>

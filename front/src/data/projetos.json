@@ -1,32 +1,42 @@
 [
   {
-    "id": "projeto-01",
-    "nome": "Nome do projeto",
-    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
-    "tecnologias": ["Python", "Django", "PostgreSQL"],
+    "id": 1,
+    "nome": "Portfólio",
+    "descricao": "Portfólio pessoal estático utilizando React. Estudo possível criação de um backend com django e mudança de hospedagem.",
+    "tecnologias": ["Python", "Django", "React"],
     "imagem": "",
     "link": "",
-    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
-    "status": "Concluído"
-  },
-  {
-    "id": "projeto-02",
-    "nome": "Nome do projeto",
-    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
-    "tecnologias": ["React", "Node.js", "MongoDB"],
-    "imagem": "",
-    "link": "",
-    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
+    "repositorio": "https://github.com/jeanhoefling/portfolio",
     "status": "Em desenvolvimento"
   },
   {
-    "id": "projeto-03",
-    "nome": "Nome do projeto",
-    "descricao": "Substitua por uma descrição curta e real do projeto: o que ele faz, qual problema resolve e qual foi o seu papel nele.",
+    "id": 2,
+    "nome": "Totem",
+    "descricao": "Tive participação na construção de rotas do backend com TypeScript e páginas do frontend com Vue, além de correções de responsividade.",
+    "tecnologias": ["Vue", "Nuxt", "Prisma ORM", "TypeScript", "Tailwind"],
+    "imagem": "",
+    "link": "",
+    "repositorio": "",
+    "status": "Concluído"
+  },
+  {
+    "id": 3,
+    "nome": "Churros da Angélica",
+    "descricao": "Funciona localhost para cadastro e gerencimento de pedidos e vendas. Estudo possível integração com whatsapp ou reconhecimento de voz",
     "tecnologias": ["Flask", "Tailwind", "SQLite"],
     "imagem": "",
     "link": "",
-    "repositorio": "https://github.com/SEU_USUARIO/nome-do-repo",
+    "repositorio": "https://github.com/jeanhoefling/Churros-da-Angelica",
     "status": "Concluído"
+  },
+  {
+    "id": 4,
+    "nome": "Projeto de Pesquisa",
+    "descricao": "Projeto de pesquisa em fase inicial em que estou responsável por construir um backend em Java.",
+    "tecnologias": ["Java", "Spring", "Flyway", "JPA"],
+    "imagem": "",
+    "link": "",
+    "repositorio": "",
+    "status": "Em desenvolvimento"
   }
 ]
