@@ -6,8 +6,8 @@
     "instituicao": "Harvard University (via edX)",
     "data": "2026",
     "descricao": "Curso introdutório de Ciência da Computação da Harvard, abordando programação, algoritmos, estruturas de dados e desenvolvimento de software.",
-    "pdf": "/certificados/cs50x.pdf",
-    "url": "https://certificates.cs50.io/exemplo"
+    "pdf": "/portfolio/certificados/CS50-X.pdf",
+    "url": ""
   },
   {
     "id": 2,
@@ -16,8 +16,8 @@
     "instituicao": "PET-CC UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste curso.",
-    "pdf": "/certificados/cs50p.pdf",
-    "url": "https://certificates.cs50.io/exemplo"
+    "pdf": "/portfolio/certificados/PET_LINUX.pdf",
+    "url": ""
   },
   {
     "id": 3,
@@ -26,7 +26,7 @@
     "instituicao": "PET-SI UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
-    "pdf": "/certificados/exemplo.pdf",
+    "pdf": "/portfolio/certificados/PET_BACKEND.pdf",
     "url": ""
   },
   {
@@ -36,7 +36,7 @@
     "instituicao": "PET-SI UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
-    "pdf": "/certificados/exemplo.pdf",
+    "pdf": "/portfolio/certificados/PET_FRONTEND.pdf",
     "url": ""
   },
   {
@@ -46,7 +46,7 @@
     "instituicao": "PET-SI UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
-    "pdf": "/certificados/exemplo.pdf",
+    "pdf": "/portfolio/certificados/PET_DB.pdf",
     "url": ""
   },
   {
@@ -56,7 +56,7 @@
     "instituicao": "PET-SI UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
-    "pdf": "/certificados/exemplo.pdf",
+    "pdf": "/portfolio/certificados/PET_OFIPROJETO.pdf",
     "url": ""
   },
   {
@@ -66,7 +66,207 @@
     "instituicao": "PET-CC UFSM",
     "data": "2026",
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
-    "pdf": "/certificados/exemplo.pdf",
+    "pdf": "/portfolio/certificados/PET_PYTHON.pdf",
+    "url": ""
+  },
+  {
+    "id": 8,
+    "grupoId": "bradesco",
+    "nome": "Projeto com Interface Gráfica Utilizando Python",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_PIGPY.pdf",
+    "url": ""
+  },
+  {
+    "id": 9,
+    "grupoId": "bradesco",
+    "nome": "Criando Site Simples com HTML, CSS E JS",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_SSHTMLCSS.pdf",
+    "url": ""
+  },
+  {
+    "id": 10,
+    "grupoId": "bradesco",
+    "nome": "Introdução a POO",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_IPOO.pdf",
+    "url": ""
+  },
+  {
+    "id": 11,
+    "grupoId": "bradesco",
+    "nome": "Projeto completo com Python e Banco de Dados",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_PCPYDB.pdf",
+    "url": ""
+  },
+  {
+    "id": 12,
+    "grupoId": "bradesco",
+    "nome": "Desenvolvimento Orientado a Objetos com Python",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_DOOPY.pdf",
+    "url": ""
+  },
+  {
+    "id": 13,
+    "grupoId": "bradesco",
+    "nome": "Linguagem Python - Iniciante",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_PYI.pdf",
+    "url": ""
+  },
+  {
+    "id": 14,
+    "grupoId": "bradesco",
+    "nome": "Projeto de Sistemas de TI",
+    "instituicao": "Fundação Bradesco",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/FB_PSTI.pdf",
+    "url": ""
+  },
+  {
+    "id": 15,
+    "grupoId": "obmep",
+    "nome": "Medalha de Bronze - Estadual",
+    "instituicao": "OBMEP",
+    "data": "2024",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/OBMEP_MED2024.pdf",
+    "url": ""
+  },
+  {
+    "id": 16,
+    "grupoId": "obmep",
+    "nome": "Menção Honrosa - Nacional",
+    "instituicao": "OBMEP",
+    "data": "2024",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/OBMEP_MEN2024.pdf",
+    "url": ""
+  },
+  {
+    "id": 17,
+    "grupoId": "obmep",
+    "nome": "Menção Honrosa - Nacional",
+    "instituicao": "OBMEP",
+    "data": "2022",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/OBMEP_2022.pdf",
+    "url": ""
+  },
+  {
+    "id": 18,
+    "grupoId": "obmep",
+    "nome": "Menção de Bronze - Nacional",
+    "instituicao": "OBMEP",
+    "data": "2019",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/OBMEP_2019.pdf",
+    "url": ""
+  },
+  {
+    "id": 19,
+    "grupoId": "obmep",
+    "nome": "Menção Honrosa - Nacional",
+    "instituicao": "OBMEP",
+    "data": "2018",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/OBMEP_2018.pdf",
+    "url": ""
+  },
+  {
+    "id": 20,
+    "grupoId": "kumon",
+    "nome": "Certificado de Conclusão do Curso de Inglês",
+    "instituicao": "Kumon",
+    "data": "2020",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/KUMON_CONCLUSAO.pdf",
+    "url": ""
+  },
+  {
+    "id": 21,
+    "grupoId": "kumon",
+    "nome": "Certificado de Aluno Adiantado - Platinum",
+    "instituicao": "Kumon",
+    "data": "2019",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/KUMON_PLATINUM.pdf",
+    "url": ""
+  },
+  {
+    "id": 22,
+    "grupoId": "kumon",
+    "nome": "Certificado de Aluno Adiantado - Ouro",
+    "instituicao": "Kumon",
+    "data": "2018",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/KUMON_OURO.pdf",
+    "url": ""
+  },
+  {
+    "id": 23,
+    "grupoId": "kumon",
+    "nome": "Certificado de Aluno Adiantado - Prata",
+    "instituicao": "Kumon",
+    "data": "2018",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/KUMON_PRATA.pdf",
+    "url": ""
+  },
+  {
+    "id": 24,
+    "grupoId": "quartel",
+    "nome": "Certificado de Honra ao Mérito",
+    "instituicao": "Campo de Instrução de Santa Maria",
+    "data": "2025",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/QUARTEL_HONRA.pdf",
+    "url": ""
+  },
+  {
+    "id": 25,
+    "grupoId": "quartel",
+    "nome": "Carta de Recomendação",
+    "instituicao": "Campo de Instrução de Santa Maria",
+    "data": "2025",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/QUARTEL_CREC.pdf",
+    "url": ""
+  },
+  {
+    "id": 26,
+    "grupoId": "tecnico",
+    "nome": "Certificado de Conclusão do Curso Técnico",
+    "instituicao": "Colégio Técnico Industrial de Santa Maria",
+    "data": "2024",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/CTISM-TEC.pdf",
+    "url": ""
+  },
+  {
+    "id": 27,
+    "grupoId": "onc",
+    "nome": "Menção Honrosa - Nacional",
+    "instituicao": "ONC",
+    "data": "2018",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/ONC_2022.pdf",
     "url": ""
   }
 ]
