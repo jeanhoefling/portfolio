@@ -126,6 +126,8 @@
   }
 
   .animate-tech-scroll {
-    animation: none;
+    animation: tech-scroll 70s linear infinite !important;
+    animation-duration: 70s !important;
+    animation-iteration-count: infinite !important;
   }
 }
