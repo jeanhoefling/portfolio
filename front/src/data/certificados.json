@@ -268,5 +268,15 @@
     "descricao": "Descrição breve do que foi aprendido neste certificado.",
     "pdf": "/portfolio/certificados/ONC_2022.pdf",
     "url": ""
+  },
+  {
+    "id": 28,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Allegro",
+    "instituicao": "PET-CC UFSM",
+    "data": "2026",
+    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "pdf": "/portfolio/certificados/PET_ALLEGRO.pdf",
+    "url": ""
   }
 ]

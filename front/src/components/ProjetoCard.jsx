@@ -2,7 +2,7 @@ export default function ProjetoCard({ projeto }) {
   const { nome, descricao, tecnologias, imagem, link, repositorio, status } = projeto
 
   return (
-    <article className="card-interactive group flex flex-col overflow-hidden">
+    <article className="card-interactive group flex flex-col h-full overflow-hidden">
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-bg-raised">
         {imagem ? (
           <img

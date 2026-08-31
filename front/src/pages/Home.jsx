@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import HeroPanel from '../components/HeroPanel.jsx'
 import Reveal from '../components/Reveal.jsx'
+import { FaPython, FaReact, FaGitAlt, FaJs } from 'react-icons/fa'
+import { SiDjango, SiPostgresql } from 'react-icons/si'
 
 // -----------------------------------------------------------------------
 // SUBSTITUA AQUI: informações pessoais reais.
@@ -12,12 +14,19 @@ const PERFIL = {
   cargo: 'Desenvolvedor Fullstack & Segurança da Informação',
   resumo:
     'Estudante de Ciência da Computação, focado em desenvolvimento web fullstack e com interesse em segurança da informação.',
-  tecnologias: ['Python', 'Django', 'React', 'PostgreSQL', 'JavaScript', 'Git'],
+  tecnologias: [
+    { nome: 'Python', icon: FaPython },
+    { nome: 'Django', icon: SiDjango },
+    { nome: 'React', icon: FaReact },
+    { nome: 'PostgreSQL', icon: SiPostgresql },
+    { nome: 'JavaScript', icon: FaJs },
+    { nome: 'Git', icon: FaGitAlt },
+  ],
   areasDeInteresse: [
     'Segurança da informação',
-    'APIs REST',
-    'Arquitetura de backend',
-    'Boas práticas de código',
+    'Backend',
+    'Inteligência Artificial',
+    'Programação Competitiva',
   ],
   github: 'https://github.com/jeanhoefling',
   linkedin: 'https://linkedin.com/in/jean-hoefling',
@@ -65,11 +74,18 @@ export default function Home() {
             <p className="section-label mb-6">Tecnologias</p>
           </Reveal>
           <div className="flex flex-wrap gap-3">
-            {PERFIL.tecnologias.map((tech, i) => (
-              <Reveal key={tech} delay={i * 40}>
-                <span className="tag-pill">{tech}</span>
-              </Reveal>
-            ))}
+            {PERFIL.tecnologias.map((tech, i) => {
+              const Icon = tech.icon
+
+              return (
+                <Reveal key={tech.nome} delay={i * 40}>
+                  <div className="card-interactive flex items-center gap-3 px-5 py-4">
+                    <Icon className="text-2xl" />
+                    <span>{tech.nome}</span>
+                  </div>
+                </Reveal>
+              )
+            })}
           </div>
         </div>
       </section>

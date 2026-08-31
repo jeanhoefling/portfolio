@@ -36,10 +36,6 @@ export default function Contato() {
           LinkedIn
         </a>
       </Reveal>
-
-      <Reveal delay={220}>
-        <ContatoForm />
-      </Reveal>
     </div>
   )
 }

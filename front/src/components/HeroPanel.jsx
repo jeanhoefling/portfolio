@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const FOCOS = ['Backend', 'Segurança da informação', 'APIs REST', 'Arquitetura de sistemas']
+const FOCOS = ['Backend', 'Segurança da informação', 'Programação Competitiva']
 
 // Painel visual do hero. Antes era um terminal simulando "digitação" de
 // comandos; agora é um cartão de vidro discreto com um monograma em
