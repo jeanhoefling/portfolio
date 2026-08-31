@@ -73,19 +73,23 @@ export default function Home() {
           <Reveal>
             <p className="section-label mb-6">Tecnologias</p>
           </Reveal>
-          <div className="flex flex-wrap gap-3">
-            {PERFIL.tecnologias.map((tech, i) => {
-              const Icon = tech.icon
 
-              return (
-                <Reveal key={tech.nome} delay={i * 40}>
-                  <div className="card-interactive flex items-center gap-3 px-5 py-4">
+          <div className="tech-carousel overflow-hidden">
+            <div className="flex w-max gap-10 animate-tech-scroll pt-6">
+              {[...PERFIL.tecnologias, ...PERFIL.tecnologias].map((tech, i) => {
+                const Icon = tech.icon
+
+                return (
+                  <div
+                    key={`${tech.nome}-${i}`}
+                    className="card-interactive flex shrink-0 items-center gap-3 px-5 py-4"
+                  >
                     <Icon className="text-2xl" />
                     <span>{tech.nome}</span>
                   </div>
-                </Reveal>
-              )
-            })}
+                )
+              })}
+            </div>
           </div>
         </div>
       </section>
@@ -97,7 +101,7 @@ export default function Home() {
           </Reveal>
           <ul className="grid gap-4 sm:grid-cols-2">
             {PERFIL.areasDeInteresse.map((area, i) => (
-              <Reveal key={area} as="li" delay={i * 60} className="card-interactive px-5 py-4 text-sm text-text-primary">
+              <Reveal key={area} as="li" delay={i * 60} className="card-interactive px-5 py-4 text-sm text-text-primary hover:scale-[1.02]">
                 {area}
               </Reveal>
             ))}
@@ -109,10 +113,10 @@ export default function Home() {
         <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 text-center">
           <p className="section-label">Redes</p>
           <div className="flex gap-4 text-sm">
-            <a href={PERFIL.github} target="_blank" rel="noreferrer" className="btn-secondary">
+            <a href={PERFIL.github} target="_blank" rel="noreferrer" className="btn-secondary hover:scale-[1.1]">
               GitHub
             </a>
-            <a href={PERFIL.linkedin} target="_blank" rel="noreferrer" className="btn-secondary">
+            <a href={PERFIL.linkedin} target="_blank" rel="noreferrer" className="btn-secondary hover:scale-[1.1]">
               LinkedIn
             </a>
           </div>
