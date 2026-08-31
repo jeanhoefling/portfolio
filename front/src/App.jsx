@@ -6,12 +6,14 @@ import Certificados from './pages/Certificados.jsx'
 import Experiencias from './pages/Experiencias.jsx'
 import Contato from './pages/Contato.jsx'
 import Projetos from './pages/Projetos.jsx'
+import CursorGlow from './components/CursorGlow.jsx'
 
 export default function App() {
   return (
     <div className="flex min-h-screen flex-col">
+      <CursorGlow />
       <Navbar />
-      <main className="flex-1">
+      <main className="relative z-10 flex-1">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/certificados" element={<Certificados />} />
