@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import HeroPanel from '../components/HeroPanel.jsx'
 import Reveal from '../components/Reveal.jsx'
-import { FaPython, FaReact, FaGitAlt, FaJs } from 'react-icons/fa'
+import { FaPython, FaReact, FaGitAlt, FaJs, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { SiDjango, SiPostgresql } from 'react-icons/si'
 
 // -----------------------------------------------------------------------
@@ -112,11 +112,15 @@ export default function Home() {
       <section className="border-t border-border-soft px-6 py-16">
         <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 text-center">
           <p className="section-label">Redes</p>
-          <div className="flex gap-4 text-sm">
-            <a href={PERFIL.github} target="_blank" rel="noreferrer" className="btn-secondary hover:scale-[1.1]">
+          <div className="flex gap-4">
+            <a href={PERFIL.github} target="_blank" rel="noreferrer" 
+            className="btn-secondary hover:scale-[1.05]">
+              <FaGithub className="text-lg" />
               GitHub
             </a>
-            <a href={PERFIL.linkedin} target="_blank" rel="noreferrer" className="btn-secondary hover:scale-[1.1]">
+            <a href={PERFIL.linkedin} target="_blank" rel="noreferrer" 
+            className="btn-secondary hover:scale-[1.05]">
+              <FaLinkedin className="text-lg" />
               LinkedIn
             </a>
           </div>

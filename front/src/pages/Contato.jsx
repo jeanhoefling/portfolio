@@ -1,12 +1,35 @@
 import ContatoForm from '../components/ContatoForm.jsx'
 import Reveal from '../components/Reveal.jsx'
+import { FaGithub, FaLinkedin, FaInstagram, FaTiktok } from 'react-icons/fa'
+import { MdEmail } from 'react-icons/md'
 
-// SUBSTITUA AQUI: links e e-mail reais.
-const CONTATOS = {
-  email: 'jeanalemao2006@gmail.com',
-  github: 'https://github.com/jeanhoefling',
-  linkedin: 'https://linkedin.com/in/jean-hoefling',
-}
+const CONTATOS = [
+  {
+    nome: 'E-mail',
+    url: 'mailto:jeanalemao2006@gmail.com',
+    icon: MdEmail,
+  },
+  {
+    nome: 'GitHub',
+    url: 'https://github.com/jeanhoefling',
+    icon: FaGithub,
+  },
+  {
+    nome: 'LinkedIn',
+    url: 'https://linkedin.com/in/jean-hoefling',
+    icon: FaLinkedin,
+  },
+  {
+    nome: 'Instagram',
+    url: 'https://instagram.com/jeanhoefling.dev',
+    icon: FaInstagram,
+  },
+  {
+    nome: 'TikTok',
+    url: 'https://tiktok.com/@jeanhoefling.dev',
+    icon: FaTiktok,
+  }
+]
 
 export default function Contato() {
   return (
@@ -25,16 +48,19 @@ export default function Contato() {
         </p>
       </Reveal>
 
-      <Reveal delay={160} className="mb-10 flex flex-wrap gap-4 text-sm">
-        <a href={`mailto:${CONTATOS.email}`} className="btn-secondary">
-          {CONTATOS.email}
-        </a>
-        <a href={CONTATOS.github} target="_blank" rel="noreferrer" className="btn-secondary">
-          GitHub
-        </a>
-        <a href={CONTATOS.linkedin} target="_blank" rel="noreferrer" className="btn-secondary">
-          LinkedIn
-        </a>
+      <Reveal delay={160} className="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-2 md:flex md:text-left md:flex-wrap text-sm">
+        {CONTATOS.map((contato) => {
+          const Icon = contato.icon
+          return (
+            <a key={contato.nome} href={contato.url} 
+            target={contato.url.startsWith('http') ? '_blank' : undefined} 
+            rel={contato.url.startsWith('http') ? 'noreferrer' : undefined} 
+            className="btn-secondary">
+              <Icon className="text-lg" />
+              {contato.nome}
+            </a>
+          )
+        })}
       </Reveal>
     </div>
   )
