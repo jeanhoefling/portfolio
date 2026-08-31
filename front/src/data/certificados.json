@@ -5,7 +5,7 @@
     "nome": "CS50x: Introduction to Computer Science",
     "instituicao": "Harvard University (via edX)",
     "data": "2026",
-    "descricao": "Curso introdutório de Ciência da Computação da Harvard, abordando programação, algoritmos, estruturas de dados e desenvolvimento de software.",
+    "descricao": "Fundamentos de programação, algoritmos, estruturas de dados e desenvolvimento de software.",
     "pdf": "/portfolio/certificados/CS50-X.pdf",
     "url": ""
   },
@@ -15,7 +15,7 @@
     "nome": "Minicurso de Linux",
     "instituicao": "PET-CC UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste curso.",
+    "descricao": "Fundamentos do sistema Linux, comandos de terminal e gerenciamento de arquivos.",
     "pdf": "/portfolio/certificados/PET_LINUX.pdf",
     "url": ""
   },
@@ -25,7 +25,7 @@
     "nome": "Minicurso de Backend",
     "instituicao": "PET-SI UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Criação de APIs com Python, integração com banco de dados e frontend.",
     "pdf": "/portfolio/certificados/PET_BACKEND.pdf",
     "url": ""
   },
@@ -35,7 +35,7 @@
     "nome": "Minicurso de Frontend",
     "instituicao": "PET-SI UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Fundamentos de HTML, CSS e JavaScript aplicados ao desenvolvimento de interfaces.",
     "pdf": "/portfolio/certificados/PET_FRONTEND.pdf",
     "url": ""
   },
@@ -45,7 +45,7 @@
     "nome": "Minicurso de Banco de Dados",
     "instituicao": "PET-SI UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Modelagem relacional, SQL, consultas e relacionamentos entre dados.",
     "pdf": "/portfolio/certificados/PET_DB.pdf",
     "url": ""
   },
@@ -55,7 +55,7 @@
     "nome": "Oficina de Projetos",
     "instituicao": "PET-SI UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Desenvolvimento de um projeto prático com foco na construção de um e-commerce.",
     "pdf": "/portfolio/certificados/PET_OFIPROJETO.pdf",
     "url": ""
   },
@@ -65,7 +65,7 @@
     "nome": "Minicurso de Python",
     "instituicao": "PET-CC UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Fundamentos da linguagem Python e desenvolvimento de programas.",
     "pdf": "/portfolio/certificados/PET_PYTHON.pdf",
     "url": ""
   },
@@ -75,7 +75,7 @@
     "nome": "Projeto com Interface Gráfica Utilizando Python",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Desenvolvimento de uma aplicação com interface gráfica utilizando Python.",
     "pdf": "/portfolio/certificados/FB_PIGPY.pdf",
     "url": ""
   },
@@ -85,7 +85,7 @@
     "nome": "Criando Site Simples com HTML, CSS E JS",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Criação de páginas web utilizando HTML, CSS e JavaScript.",
     "pdf": "/portfolio/certificados/FB_SSHTMLCSS.pdf",
     "url": ""
   },
@@ -95,7 +95,7 @@
     "nome": "Introdução a POO",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Introdução aos conceitos de programação orientada a objetos.",
     "pdf": "/portfolio/certificados/FB_IPOO.pdf",
     "url": ""
   },
@@ -105,7 +105,7 @@
     "nome": "Projeto completo com Python e Banco de Dados",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Desenvolvimento de uma aplicação em Python integrada a banco de dados.",
     "pdf": "/portfolio/certificados/FB_PCPYDB.pdf",
     "url": ""
   },
@@ -115,7 +115,7 @@
     "nome": "Desenvolvimento Orientado a Objetos com Python",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Aplicação de conceitos de orientação a objetos utilizando Python.",
     "pdf": "/portfolio/certificados/FB_DOOPY.pdf",
     "url": ""
   },
@@ -125,7 +125,7 @@
     "nome": "Linguagem Python - Iniciante",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Fundamentos da linguagem Python e lógica de programação.",
     "pdf": "/portfolio/certificados/FB_PYI.pdf",
     "url": ""
   },
@@ -135,7 +135,7 @@
     "nome": "Projeto de Sistemas de TI",
     "instituicao": "Fundação Bradesco",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Conceitos fundamentais para planejamento e desenvolvimento de sistemas de TI.",
     "pdf": "/portfolio/certificados/FB_PSTI.pdf",
     "url": ""
   },
@@ -145,7 +145,7 @@
     "nome": "Medalha de Bronze - Estadual",
     "instituicao": "OBMEP",
     "data": "2024",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Brasileira de Matemática.",
     "pdf": "/portfolio/certificados/OBMEP_MED2024.pdf",
     "url": ""
   },
@@ -155,7 +155,7 @@
     "nome": "Menção Honrosa - Nacional",
     "instituicao": "OBMEP",
     "data": "2024",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Brasileira de Matemática.",
     "pdf": "/portfolio/certificados/OBMEP_MEN2024.pdf",
     "url": ""
   },
@@ -165,7 +165,7 @@
     "nome": "Menção Honrosa - Nacional",
     "instituicao": "OBMEP",
     "data": "2022",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Brasileira de Matemática.",
     "pdf": "/portfolio/certificados/OBMEP_2022.pdf",
     "url": ""
   },
@@ -175,7 +175,7 @@
     "nome": "Menção de Bronze - Nacional",
     "instituicao": "OBMEP",
     "data": "2019",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Brasileira de Matemática.",
     "pdf": "/portfolio/certificados/OBMEP_2019.pdf",
     "url": ""
   },
@@ -185,7 +185,7 @@
     "nome": "Menção Honrosa - Nacional",
     "instituicao": "OBMEP",
     "data": "2018",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Brasileira de Matemática.",
     "pdf": "/portfolio/certificados/OBMEP_2018.pdf",
     "url": ""
   },
@@ -195,7 +195,7 @@
     "nome": "Certificado de Conclusão do Curso de Inglês",
     "instituicao": "Kumon",
     "data": "2020",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Conclusão do curso de inglês do Kumon.",
     "pdf": "/portfolio/certificados/KUMON_CONCLUSAO.pdf",
     "url": ""
   },
@@ -205,7 +205,7 @@
     "nome": "Certificado de Aluno Adiantado - Platinum",
     "instituicao": "Kumon",
     "data": "2019",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento por avanço acima do nível escolar no curso de inglês.",
     "pdf": "/portfolio/certificados/KUMON_PLATINUM.pdf",
     "url": ""
   },
@@ -215,7 +215,7 @@
     "nome": "Certificado de Aluno Adiantado - Ouro",
     "instituicao": "Kumon",
     "data": "2018",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento por avanço acima do nível escolar no curso de inglês.",
     "pdf": "/portfolio/certificados/KUMON_OURO.pdf",
     "url": ""
   },
@@ -225,7 +225,7 @@
     "nome": "Certificado de Aluno Adiantado - Prata",
     "instituicao": "Kumon",
     "data": "2018",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento por avanço acima do nível escolar no curso de inglês.",
     "pdf": "/portfolio/certificados/KUMON_PRATA.pdf",
     "url": ""
   },
@@ -235,7 +235,7 @@
     "nome": "Certificado de Honra ao Mérito",
     "instituicao": "Campo de Instrução de Santa Maria",
     "data": "2025",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho e dedicação durante o serviço militar.",
     "pdf": "/portfolio/certificados/QUARTEL_HONRA.pdf",
     "url": ""
   },
@@ -245,7 +245,7 @@
     "nome": "Carta de Recomendação",
     "instituicao": "Campo de Instrução de Santa Maria",
     "data": "2025",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Carta destacando desempenho, dedicação e postura profissional.",
     "pdf": "/portfolio/certificados/QUARTEL_CREC.pdf",
     "url": ""
   },
@@ -255,7 +255,7 @@
     "nome": "Certificado de Conclusão do Curso Técnico",
     "instituicao": "Colégio Técnico Industrial de Santa Maria",
     "data": "2024",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Conclusão de formação técnica na área de tecnologia.",
     "pdf": "/portfolio/certificados/CTISM-TEC.pdf",
     "url": ""
   },
@@ -265,7 +265,7 @@
     "nome": "Menção Honrosa - Nacional",
     "instituicao": "ONC",
     "data": "2018",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Reconhecimento pelo desempenho na Olimpíada Nacional de Ciências.",
     "pdf": "/portfolio/certificados/ONC_2022.pdf",
     "url": ""
   },
@@ -275,7 +275,7 @@
     "nome": "Minicurso de Allegro",
     "instituicao": "PET-CC UFSM",
     "data": "2026",
-    "descricao": "Descrição breve do que foi aprendido neste certificado.",
+    "descricao": "Introdução ao desenvolvimento de aplicações gráficas com a biblioteca Allegro.",
     "pdf": "/portfolio/certificados/PET_ALLEGRO.pdf",
     "url": ""
   }

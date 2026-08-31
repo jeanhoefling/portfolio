@@ -4,7 +4,7 @@
     "cargo": "Membro da Equipe de Projetos",
     "empresa": "Compact Jr",
     "periodo": "04/2026 - Atual",
-    "descricao": "Descrição de exemplo da experiência profissional. Substitua pelos dados reais.",
+    "descricao": "Minha primeira experiência profissional na área de TI. Além de novas linguagens e frameworks, aprendi muito sobre organização de código, documentação, tasks, sprints, e diversas outras necessidades para um bom trabalho em equipe no ramo.",
     "tecnologias": ["Python", "Django", "PostgreSQL"]
   },
   {
@@ -12,15 +12,15 @@
     "cargo": "Serviço Militar Obrigatório",
     "empresa": "Exército Brasileiro",
     "periodo": "03/2025 - 02/2026",
-    "descricao": "Segunda experiência de exemplo, para demonstrar a renderização dinâmica a partir do JSON.",
-    "tecnologias": ["React", "JavaScript"]
+    "descricao": "Durante o Serviço Militar aprendi muito sobre disciplina, comprometimento e cumprimento de horários, características fundamentais no ambiente militar.",
+    "tecnologias": ""
   },
   {
     "id": 3,
     "cargo": "Estagiário",
     "empresa": "Don Jorge",
     "periodo": "2024",
-    "descricao": "Segunda experiência de exemplo, para demonstrar a renderização dinâmica a partir do JSON.",
-    "tecnologias": ["React", "JavaScript"]
+    "descricao": "Apesar de não ser uma empresa da área da TI, pude ter contato direto com o ambiente de trabalho. Necessidades de entrega, compromentimento e responsabilidade faziam parte da experiência do estágio.",
+    "tecnologias": ""
   }
 ]

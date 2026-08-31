@@ -22,7 +22,7 @@
   {
     "id": 3,
     "nome": "Churros da Angélica",
-    "descricao": "Funciona localhost para cadastro e gerencimento de pedidos e vendas. Estudo possível integração com whatsapp ou reconhecimento de voz",
+    "descricao": "Funciona localhost para cadastro e gerencimento de pedidos e vendas. Estudo possível integração com whatsapp ou reconhecimento de voz.",
     "tecnologias": ["Flask", "Tailwind", "SQLite"],
     "imagem": "",
     "link": "",
