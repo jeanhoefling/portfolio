@@ -4,7 +4,7 @@
     "nome": "Portfólio",
     "descricao": "Portfólio pessoal estático utilizando React. Estudo possível criação de um backend com django e mudança de hospedagem.",
     "tecnologias": ["Python", "Django", "React"],
-    "imagem": "",
+    "imagem": "/portfolio/images/PORTFOLIO_PROJ.png",
     "link": "",
     "repositorio": "https://github.com/jeanhoefling/portfolio",
     "status": "Em desenvolvimento"
@@ -17,14 +17,14 @@
     "imagem": "",
     "link": "",
     "repositorio": "",
-    "status": "Concluído"
+    "status": "Em desenvolvimento"
   },
   {
     "id": 3,
     "nome": "Churros da Angélica",
     "descricao": "Funciona localhost para cadastro e gerencimento de pedidos e vendas. Estudo possível integração com whatsapp ou reconhecimento de voz.",
     "tecnologias": ["Flask", "Tailwind", "SQLite"],
-    "imagem": "",
+    "imagem": "/portfolio/images/CHURROS_PROJ.jpg",
     "link": "",
     "repositorio": "https://github.com/jeanhoefling/Churros-da-Angelica",
     "status": "Concluído"

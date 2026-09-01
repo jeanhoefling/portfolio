@@ -34,12 +34,20 @@ export default function Experiencias() {
         {experiencias.length === 0 ? (
           <p className="text-text-muted">Nenhuma experiência cadastrada ainda.</p>
         ) : (
-          <div className="flex flex-col gap-6">
-            {experiencias.map((exp, i) => (
-              <Reveal key={exp.id} delay={i * 60}>
-                <ExperienciaCard experiencia={exp} />
-              </Reveal>
-            ))}
+          <div className="relative">
+            {/* Linha vertical da timeline */}
+            <div
+              aria-hidden="true"
+              className="absolute bottom-2 left-[7px] top-2 w-px bg-gradient-to-b from-accent via-accent-teal/40 to-transparent"
+            />
+
+            <div className="flex flex-col gap-10 sm:gap-12">
+              {experiencias.map((exp, i) => (
+                <Reveal key={exp.id} delay={i * 60}>
+                  <ExperienciaCard experiencia={exp} />
+                </Reveal>
+              ))}
+            </div>
           </div>
         )}
       </section>
