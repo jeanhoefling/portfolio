@@ -44,7 +44,7 @@ export default function Contato() {
       </Reveal>
       <Reveal delay={120}>
         <p className="mb-10 text-text-muted">
-          Envie uma mensagem pelo formulário ou entre em contato diretamente pelos canais abaixo.
+          Entre em contato diretamente pelos canais abaixo.
         </p>
       </Reveal>
 
