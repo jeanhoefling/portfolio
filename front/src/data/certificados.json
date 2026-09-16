@@ -278,5 +278,15 @@
     "descricao": "Introdução ao desenvolvimento de aplicações gráficas com a biblioteca Allegro.",
     "pdf": "/portfolio/certificados/PET_ALLEGRO.pdf",
     "url": ""
+  },
+  {
+    "id": 29,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de N8N",
+    "instituicao": "PET-SI UFSM",
+    "data": "2026",
+    "descricao": "Automação de atividades com ferramentas low code (N8N)",
+    "pdf": "/portfolio/certificados/PET_N8N.pdf",
+    "url": ""
   }
 ]

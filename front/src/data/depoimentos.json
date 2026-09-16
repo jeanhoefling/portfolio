@@ -6,5 +6,13 @@
     "empresa": "Don Jorge",
     "relato": "Durante o período de estágio, demonstrou dedicação, responsabilidade e pontualidade no cumprimento das atividades. Mostrou interesse e vontade de aprender, buscando realizar todas as tarefas dentro da proposta estabelecida. Ao longo do estágio, apresentou boa evolução e comprometimento com seu desenvolvimento profissional.",
     "imagem": "/portfolio/images/DON-JORGE.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Jonas S. Lara",
+    "cargo": "Diretor de Projetos",
+    "empresa": "Compact Jr",
+    "relato": "É nítido o desenvolvimento que demonstrou desde o ínicio do processo trainee. Evolução que obteve pelo seu esforço, dedicação em aprender e entregar valor real para nossos clientes e até mesmo membros do próprio time. Parabéns Jean!",
+    "imagem": "/portfolio/images/JONAS_COMPACT.jpg"
   }
 ]
