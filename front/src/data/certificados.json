@@ -288,5 +288,25 @@
     "descricao": "Automação de atividades com ferramentas low code (N8N)",
     "pdf": "/portfolio/certificados/PET_N8N.pdf",
     "url": ""
+  },
+  {
+    "id": 30,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Git e Github",
+    "instituicao": "PET-CC UFSM",
+    "data": "2026",
+    "descricao": "Comandos básicos de Git e GitHub para versionamento de código.",
+    "pdf": "/portfolio/certificados/PET_GITGITHUB.pdf",
+    "url": ""
+  },
+  {
+    "id": 31,
+    "grupoId": "faculdade",
+    "nome": "Minicurso de Docker",
+    "instituicao": "PET-CC UFSM",
+    "data": "2026",
+    "descricao": "Criação de imagens, execução de contêineres e uso do Docker Hub.",
+    "pdf": "/portfolio/certificados/PET_DOCKER.pdf",
+    "url": ""
   }
 ]
