@@ -6,6 +6,7 @@ const links = [
   { to: '/projetos', label: 'Projetos' },
   { to: '/experiencias', label: 'Experiências' },
   { to: '/certificados', label: 'Certificados' },
+  { to: '/competicoes', label: 'Competições' },
   { to: '/contato', label: 'Contato' },
 ]
 
@@ -61,7 +62,7 @@ export default function Navbar() {
 
       <ul
         className={`flex flex-col gap-1 overflow-hidden border-t border-border-soft px-6 text-sm transition-[max-height,opacity] duration-300 ease-premium md:hidden ${
-          open ? 'max-h-60 py-3 opacity-100' : 'max-h-0 py-0 opacity-0'
+          open ? 'max-h-72 py-3 opacity-100' : 'max-h-0 py-0 opacity-0'
         }`}
       >
         {links.map((link) => (

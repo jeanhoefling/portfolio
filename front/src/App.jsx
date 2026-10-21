@@ -6,6 +6,7 @@ import Certificados from './pages/Certificados.jsx'
 import Experiencias from './pages/Experiencias.jsx'
 import Contato from './pages/Contato.jsx'
 import Projetos from './pages/Projetos.jsx'
+import Competicoes from './pages/Competicoes.jsx'
 import CursorGlow from './components/CursorGlow.jsx'
 
 export default function App() {
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/experiencias" element={<Experiencias />} />
           <Route path="/contato" element={<Contato />} />
           <Route path="/projetos" element={<Projetos />} />
+          <Route path="/competicoes" element={<Competicoes />} />
         </Routes>
       </main>
       <Footer />

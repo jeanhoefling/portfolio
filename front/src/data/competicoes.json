@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nome": "Maratona de SQL",
+    "colocacao": "1º Lugar",
+    "organizacao": "XIII SAINF / UFSM",
+    "ano": 2026,
+    "local": "UFSM",
+    "modalidade": "Trios",
+    "descricao": "Em uma prova de 2 horas, conseguimos realizar 5 das 6 questões propostas e saímos campeões. As questões envolveram diversas necessidades de consulta em SQL.",
+    "imagem": "/portfolio/images/competicoes/SQL_SAINF_2026.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Maratona SBC de Programação",
+    "colocacao": "11º Lugar",
+    "organizacao": "SBC",
+    "ano": 2026,
+    "local": "Etapa regional, Passo Fundo",
+    "modalidade": "Trios",
+    "descricao": "Nessa prova conseguimos fazer apenas 3 questões de 12, apesar de não ser um resultado muito bom a experiência foi muito válida. A prova envolvia diversos tópicos de algoritmos, com questões bem aprofundadas.",
+    "imagem": "/portfolio/images/competicoes/SBC_2026.jpeg"
+  }
+]
